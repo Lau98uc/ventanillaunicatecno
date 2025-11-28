@@ -1,0 +1,36 @@
+{
+    "crear": [
+        {
+            "id": 5,
+            "name": "crear",
+            "guard_name": "web",
+            "label": "crear",
+            "slug": "users.create",
+            "ruta": "\/users\/create",
+            "icon": null,
+            "type": "accion",
+            "parent_id": 2,
+            "orden": 1,
+            "visible": true,
+            "created_at": null,
+            "updated_at": null
+        }
+    ],
+    "ver": [
+        {
+            "id": 6,
+            "name": "ver",
+            "guard_name": "web",
+            "label": "ver",
+            "slug": "users.index",
+            "ruta": "\/users",
+            "icon": null,
+            "type": "accion",
+            "parent_id": 2,
+            "orden": 2,
+            "visible": true,
+            "created_at": null,
+            "updated_at": null
+        }
+    ]
+}
