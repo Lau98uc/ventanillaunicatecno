@@ -1,7 +1,7 @@
 // inertia-router-base.js
 export default {
   install(app) {
-    const BASE = ''
+    const BASE = '/ventanilla_unica/ventanillaunicatecno/public/'
 
     function normalize(url) {
       if (url.startsWith(BASE)) return url
